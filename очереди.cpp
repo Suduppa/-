@@ -70,7 +70,7 @@ void queue<T>::showBackElement()
 {
 	if (tail != nullptr)
 		cout << tail->data;
-	else { cout << "Î÷åðåäü ïóñòà!" << endl; return; }
+	else { cout << "ÃŽÃ·Ã¥Ã°Ã¥Ã¤Ã¼ Ã¯Ã³Ã±Ã²Ã !" << endl; return; }
 }
 
 template<typename T>
@@ -78,7 +78,7 @@ void queue<T>::showFrontElement()
 {
 	if (head != nullptr)
 		cout << head->data;
-	else { cout << "Î÷åðåäü ïóñòà!" << endl; return; }
+	else { cout << "ÃŽÃ·Ã¥Ã°Ã¥Ã¤Ã¼ Ã¯Ã³Ã±Ã²Ã !" << endl; return; }
 }
 
 int main()
