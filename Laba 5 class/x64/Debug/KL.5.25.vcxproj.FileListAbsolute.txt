@@ -1,0 +1,3 @@
+D:\projects\KL.5.25\x64\Debug\KL.5.25.exe
+D:\ReposGIT\Labs\KL.5.25\x64\Debug\KL.5.25.exe
+C:\Users\patri\source\repos\KL.5.25\x64\Debug\laba 5 class.exe

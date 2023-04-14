@@ -1,0 +1,9 @@
+﻿D:\Вижал студио\Среда разработки\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (KL.5.25.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  laba 5 class.cpp
+C:\Users\patri\source\repos\KL.5.25\laba 5 class.cpp(17,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Money.cpp
+  Object.cpp
+  Pair.cpp
+  Vector.cpp
+  Создание кода...
+  KL.5.25.vcxproj -> C:\Users\patri\source\repos\KL.5.25\x64\Debug\laba 5 class.exe
