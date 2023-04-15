@@ -9,7 +9,7 @@ Vector::Vector(int s, int k)
 	beg.elem = &data[0];
 	end.elem = &data[size];
 }
-//конструктор копирования
+
 Vector::Vector(const Vector& a)
 {
 	size = a.size;
@@ -19,13 +19,12 @@ Vector::Vector(const Vector& a)
 	beg = a.beg;
 	end = a.end;
 }
-//деструктор
+
 Vector::~Vector()
 {
 	delete[]data;
 	data = 0;
 }
-//операция присваивания
 Vector& Vector::operator=(const Vector& a)
 {
 	if (this == &a)return *this;
@@ -38,27 +37,27 @@ Vector& Vector::operator=(const Vector& a)
 	end = a.end;
 	return *this;
 }
-//операция доступа по индексу
+
 int& Vector::operator[](int index)
 {
 	if (index < size) return data[index];
 	else cout << "\nError! Index>size";
 }
-//операция для умножения векторов
-Vector Vector::operator*(Vector& k)//*вектор
+
+Vector Vector::operator*(Vector& k)
 {
 	Vector temp(size);
 	for (int i = 0; i < size; ++i)
 		temp.data[i] = data[i] * k.data[i];
 	return temp;
 }
-//операция для получения длины вектора
+
 int Vector::operator()()
 {
 	int len = size;
 	return len;
 }
-//операции для ввода-выода
+
 ostream& operator<<(ostream& out, const Vector& a)
 {
 	for (int i = 0; i < a.size; ++i)
