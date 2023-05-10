@@ -1,0 +1,9 @@
+﻿  8lab.cpp
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\8lab\8lab\8lab.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Dialog.cpp
+  Emloyee.cpp
+  Object.cpp
+  Person.cpp
+  Vector.cpp
+  Создание кода...
+  8lab.vcxproj -> C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\8lab\8lab\x64\Debug\8lab.exe
