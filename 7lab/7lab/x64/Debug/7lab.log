@@ -1,0 +1,6 @@
+﻿  7lab.cpp
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\7lab\7lab\7lab.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Time.cpp
+  Создание кода...
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\7lab\7lab\Vector.h(77): warning C4715: Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+  7lab.vcxproj -> C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\7lab\7lab\x64\Debug\7lab.exe
