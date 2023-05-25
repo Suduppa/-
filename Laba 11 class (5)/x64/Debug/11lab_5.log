@@ -1,0 +1,6 @@
+﻿  11lab_5.cpp
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_5\11lab_5\Vector.h(60,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_5\11lab_5\Vector.h(53,1): message : во время компиляции функции-члена класс шаблон "Vector<Time>::Vector(int)"
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_5\11lab_5\11lab_5.cpp(10,14): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Time>::Vector(int)"
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_5\11lab_5\11lab_5.cpp(10,16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+  11lab_5.vcxproj -> C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_5\11lab_5\x64\Debug\11lab_5.exe
