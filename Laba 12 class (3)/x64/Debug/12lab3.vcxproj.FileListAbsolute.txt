@@ -1,0 +1,3 @@
+D:\2 СЕМЕСТР ПНИПУ\ПРОГРАММИРОВАНИЕ\Задания Данилу\12lab\12lab_3\12lab3\x64\Debug\12lab3.exe
+C:\Users\WhoAmI\Desktop\12lab3\x64\Debug\12lab3.exe
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\12lab\12lab3\x64\Debug\12lab3.exe
