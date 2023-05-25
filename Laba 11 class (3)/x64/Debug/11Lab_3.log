@@ -1,0 +1,18 @@
+﻿  11Lab_3.cpp
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\11Lab_3.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\Vector.h(47,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\Vector.h(40,1): message : во время компиляции функции-члена класс шаблон "Vector<Time>::Vector(int)"
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\11Lab_3.cpp(10,14): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Time>::Vector(int)"
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\11Lab_3.cpp(10,18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\Vector.h(64,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\Vector.h(60,1): message : во время компиляции функции-члена класс шаблон "T Vector<T>::Srednee(void)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\11Lab_3.cpp(12,12): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Srednee(void)"
+          with
+          [
+              T=Time
+          ]
+  11Lab_3.vcxproj -> C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_3\11Lab_3\x64\Debug\11Lab_3.exe
