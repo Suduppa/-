@@ -1,0 +1,39 @@
+﻿  11lab_1.cpp
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(14,15): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(30,11): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(31,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(37,28): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(42,8): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(47,11): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(60,8): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(65,11): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\11lab_1.cpp(78,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  11lab_1.vcxproj -> C:\Users\WhoAmI\Desktop\пнипу\Сессия 2\информатика\11lab\11lab_1\11lab_1\x64\Debug\11lab_1.exe
